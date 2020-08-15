@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
                   decoration: InputDecoration(
                     hintText: "Gender",
                     border: OutlineInputBorder(),
-                    prefixIcon: Icon(Icons.account_circle)
+                    prefixIcon: Icon(Icons.keyboard)
                   ),
                 ),
                 SizedBox(height: 20.0,),
